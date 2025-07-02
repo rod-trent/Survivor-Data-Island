@@ -1,0 +1,98 @@
+Timestamp,Contestant,Activity,Resource,Quantity,Location
+2025-07-01T08:00:00,Alice,Searched,Water,5,North
+2025-07-01T08:15:00,Bob,Fished,Fish,2,South
+2025-07-01T08:30:00,Charlie,Built,Shelter,1,Camp
+2025-07-01T08:45:00,Null,Did Nothing,None,0,Unknown
+2025-07-01T09:00:00,Alice,Collected,Fruit,3,West
+2025-07-01T09:15:00,Bob,Argued with Charlie,Drama,5,Camp
+2025-07-01T09:30:00,Charlie,Searched,Water,4,North
+2025-07-01T09:45:00,Denise,Fished,Fish,4,South
+2025-07-01T10:00:00,Alice,Built,Shelter,2,Camp
+2025-07-01T10:15:00,Bob,Searched,Water,3,West
+2025-07-01T10:30:00,Charlie,Collected,Fruit,2,East
+2025-07-01T10:45:00,Null,Did Nothing,None,0,Unknown
+2025-07-01T11:00:00,Denise,Argued with Alice,Drama,7,Camp
+2025-07-01T11:15:00,Alice,Searched,Water,6,North
+2025-07-01T11:30:00,Bob,Fished,Fish,3,South
+2025-07-01T11:45:00,Charlie,Built,Shelter,1,Camp
+2025-07-01T12:00:00,Denise,Collected,Fruit,4,West
+2025-07-01T12:15:00,Alice,Argued with Bob,Drama,6,Camp
+2025-07-01T12:30:00,Bob,Searched,Water,5,West
+2025-07-01T12:45:00,Charlie,Fished,Fish,2,South
+2025-07-01T13:00:00,Null,Did Nothing,None,0,Unknown
+2025-07-01T13:15:00,Denise,Searched,Water,7,North
+2025-07-01T13:30:00,Alice,Collected,Fruit,3,East
+2025-07-01T13:45:00,Bob,Built,Shelter,2,Camp
+2025-07-01T14:00:00,Charlie,Argued with Denise,Drama,8,Camp
+2025-07-01T14:15:00,Denise,Fished,Fish,5,South
+2025-07-01T14:30:00,Alice,Searched,Water,4,North
+2025-07-01T14:45:00,Bob,Collected,Fruit,2,West
+2025-07-01T15:00:00,Charlie,Searched,Water,6,East
+2025-07-01T15:15:00,Null,Did Nothing,None,0,Unknown
+2025-07-01T15:30:00,Denise,Built,Shelter,1,Camp
+2025-07-01T15:45:00,Alice,Fished,Fish,3,South
+2025-07-01T16:00:00,Bob,Argued with Alice,Drama,5,Camp
+2025-07-01T16:15:00,Charlie,Collected,Fruit,4,West
+2025-07-01T16:30:00,Denise,Searched,Water,5,North
+2025-07-01T16:45:00,Alice,Built,Shelter,2,Camp
+2025-07-01T17:00:00,Bob,Fished,Fish,4,South
+2025-07-01T17:15:00,Charlie,Searched,Water,3,West
+2025-07-01T17:30:00,Null,Did Nothing,None,0,Unknown
+2025-07-01T17:45:00,Denise,Argued with Charlie,Drama,6,Camp
+2025-07-01T18:00:00,Alice,Collected,Fruit,3,East
+2025-07-01T18:15:00,Bob,Searched,Water,7,North
+2025-07-01T18:30:00,Charlie,Fished,Fish,2,South
+2025-07-01T18:45:00,Denise,Built,Shelter,1,Camp
+2025-07-01T19:00:00,Alice,Argued with Bob,Drama,4,Camp
+2025-07-01T19:15:00,Bob,Collected,Fruit,3,West
+2025-07-01T19:30:00,Charlie,Searched,Water,5,East
+2025-07-01T19:45:00,Null,Did Nothing,None,0,Unknown
+2025-07-01T20:00:00,Denise,Fished,Fish,4,South
+2025-07-01T20:15:00,Alice,Searched,Water,6,North
+2025-07-01T20:30:00,Bob,Built,Shelter,2,Camp
+2025-07-01T20:45:00,Charlie,Argued with Alice,Drama,7,Camp
+2025-07-01T21:00:00,Denise,Collected,Fruit,2,West
+2025-07-01T21:15:00,Alice,Fished,Fish,3,South
+2025-07-01T21:30:00,Bob,Searched,Water,4,West
+2025-07-01T21:45:00,Charlie,Built,Shelter,1,Camp
+2025-07-01T22:00:00,Null,Did Nothing,None,0,Unknown
+2025-07-01T22:15:00,Denise,Searched,Water,5,North
+2025-07-01T22:30:00,Alice,Argued with Denise,Drama,5,Camp
+2025-07-01T22:45:00,Bob,Fished,Fish,2,South
+2025-07-01T23:00:00,Charlie,Collected,Fruit,3,East
+2025-07-01T23:15:00,Denise,Built,Shelter,2,Camp
+2025-07-01T23:30:00,Alice,Searched,Water,6,North
+2025-07-01T23:45:00,Bob,Argued with Charlie,Drama,6,Camp
+2025-07-02T00:00:00,Charlie,Fished,Fish,4,South
+2025-07-02T00:15:00,Null,Did Nothing,None,0,Unknown
+2025-07-02T00:30:00,Denise,Searched,Water,7,West
+2025-07-02T00:45:00,Alice,Collected,Fruit,2,East
+2025-07-02T01:00:00,Bob,Built,Shelter,1,Camp
+2025-07-02T01:15:00,Charlie,Argued with Bob,Drama,5,Camp
+2025-07-02T01:30:00,Denise,Fished,Fish,3,South
+2025-07-02T01:45:00,Alice,Searched,Water,4,North
+2025-07-02T02:00:00,Bob,Collected,Fruit,4,West
+2025-07-02T02:15:00,Charlie,Searched,Water,6,East
+2025-07-02T02:30:00,Null,Did Nothing,None,0,Unknown
+2025-07-02T02:45:00,Denise,Built,Shelter,1,Camp
+2025-07-02T03:00:00,Alice,Fished,Fish,2,South
+2025-07-02T03:15:00,Bob,Argued with Alice,Drama,7,Camp
+2025-07-02T03:30:00,Charlie,Collected,Fruit,3,West
+2025-07-02T03:45:00,Denise,Searched,Water,5,North
+2025-07-02T04:00:00,Alice,Built,Shelter,2,Camp
+2025-07-02T04:15:00,Bob,Fished,Fish,4,South
+2025-07-02T04:30:00,Charlie,Searched,Water,3,West
+2025-07-02T04:45:00,Null,Did Nothing,None,0,Unknown
+2025-07-02T05:00:00,Denise,Argued with Charlie,Drama,6,Camp
+2025-07-02T05:15:00,Alice,Collected,Fruit,3,East
+2025-07-02T05:30:00,Bob,Searched,Water,7,North
+2025-07-02T05:45:00,Charlie,Fished,Fish,2,South
+2025-07-02T06:00:00,Denise,Built,Shelter,1,Camp
+2025-07-02T06:15:00,Alice,Argued with Bob,Drama,4,Camp
+2025-07-02T06:30:00,Bob,Collected,Fruit,3,West
+2025-07-02T06:45:00,Charlie,Searched,Water,5,East
+2025-07-02T07:00:00,Null,Did Nothing,None,0,Unknown
+2025-07-02T07:15:00,Denise,Fished,Fish,4,South
+2025-07-02T07:30:00,Alice,Searched,Water,6,North
+2025-07-02T07:45:00,Bob,Built,Shelter,2,Camp
+2025-07-02T08:00:00,Charlie,Argued with Alice,Drama,7,Camp
