@@ -1,6 +1,6 @@
 # Survivor: Data Island - Dataset Readme
 
-Welcome to the **Survivor: Data Island** dataset, designed for the KQL reality show blog post! This `IslandLogs.csv` dataset simulates the activities of contestants stranded on Data Island, where they must query to survive. This README explains how to use the dataset, its structure, and how to leverage it with Kusto Query Language (KQL) for survival challenges.
+Welcome to the **Survivor: Data Island** dataset, designed for the [KQL reality show blog post](https://rodtrent.substack.com/p/kql-reality-show-survivor-data-island)! This `IslandLogs.csv` dataset simulates the activities of contestants stranded on Data Island, where they must query to survive. This README explains how to use the dataset, its structure, and how to leverage it with Kusto Query Language (KQL) for survival challenges.
 
 ## Dataset Overview
 The `IslandLogs.csv` file contains 100 rows of survival activity logs from Data Island, capturing contestant actions like searching for water, fishing, building shelters, and stirring drama. It’s your key to mastering the island’s resources using KQL.
@@ -52,10 +52,10 @@ To use this dataset, you’ll need a KQL-compatible environment, such as **Azure
 
 3. **Explore the Dataset**:
    - Use KQL to query the dataset for survival tasks (see examples below).
-   - Experiment with the challenges from the blog post or create your own.
+   - Experiment with the challenges from the [blog post](https://rodtrent.substack.com/p/kql-reality-show-survivor-data-island) or create your own.
 
 ## Example KQL Challenges
-Here are sample queries from the **Survivor: Data Island** blog post to get you started. These align with the survival challenges described in the post.
+Here are sample queries from the [**Survivor: Data Island** blog post](https://rodtrent.substack.com/p/kql-reality-show-survivor-data-island) to get you started. These align with the survival challenges described in the post.
 
 ### Challenge 1: Find the Water Source
 Identify locations with the most water collected.
@@ -91,7 +91,7 @@ IslandLogs
 - **Filter Null Values**: Contestant `Null` represents inactivity. Filter them out with `where Contestant != "Null"` for meaningful insights.
 - **Time-Based Analysis**: Use `Timestamp` to analyze activity patterns, e.g., `summarize by bin(Timestamp, 1h)`.
 - **Experiment Freely**: Try new queries, like finding the most active contestant or busiest location.
-- **Join with Other Data**: The blog mentions a `FishDetails` table. You can create a similar table and practice `join` operations.
+- **Join with Other Data**: The [blog](https://rodtrent.substack.com/p/kql-reality-show-survivor-data-island) mentions a `FishDetails` table. You can create a similar table and practice `join` operations.
 
 ## Environment Setup
 - **Azure Data Explorer**: Free tier available at [learn.microsoft.com/azure/data-explorer](https://learn.microsoft.com/azure/data-explorer).
